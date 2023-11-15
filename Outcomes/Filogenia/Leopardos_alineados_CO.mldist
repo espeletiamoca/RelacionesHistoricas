@@ -1,0 +1,11 @@
+10
+Lt2_MG230229.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene__partial_sequence__mitochondrial                       0.0000000 0.7334761 0.5937708 0.5937708 0.6054390 0.6136054 0.6017427 0.6283022 0.7668728 0.6686250 
+Fcat_LC500148.1_Felis_catus_mitochondrial_gene_for_16S_ribosomal_RNA__partial_sequence__note__sample_name__SD54 0.7334761 0.0000000 0.1104114 0.1104114 0.1185981 0.1191654 0.1109315 0.0950025 0.1572328 0.1197392 
+Nari__o_MG230196.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene__partial_sequence__mitochondrial                   0.5937708 0.1104114 0.0000000 0.0000010 0.0071131 0.0215449 0.0143202 0.0510527 0.0828585 0.0510527 
+Lw1_MG230243.1_Leopardus_wiedii_16S_ribosomal_RNA_gene__partial_sequence__mitochondrial                         0.5937708 0.1104114 0.0000010 0.0000000 0.0071131 0.0215449 0.0143202 0.0510527 0.0828585 0.0510527 
+Lw3_MG230245.1_Leopardus_wiedii_16S_ribosomal_RNA_gene__partial_sequence__mitochondrial                         0.6054390 0.1185981 0.0071131 0.0071131 0.0000000 0.0288115 0.0215449 0.0585099 0.0906511 0.0585099 
+Lp1_MG230239.1_Leopardus_pardalis_16S_ribosomal_RNA_gene__partial_sequence__mitochondrial                       0.6136054 0.1191654 0.0215449 0.0215449 0.0288115 0.0000000 0.0071131 0.0738400 0.1068290 0.0738400 
+Lp2_MG230241.1_Leopardus_pardalis_16S_ribosomal_RNA_gene__partial_sequence__mitochondrial                       0.6017427 0.1109315 0.0143202 0.0143202 0.0215449 0.0071131 0.0000000 0.0662733 0.0989198 0.0662733 
+Lt1_MG230224.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene__partial_sequence__mitochondrial                       0.6283022 0.0950025 0.0510527 0.0510527 0.0585099 0.0738400 0.0662733 0.0000000 0.0751053 0.0436345 
+Lt3_MG230232.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene__partial_sequence__mitochondrial                       0.7668728 0.1572328 0.0828585 0.0828585 0.0906511 0.1068290 0.0989198 0.0751053 0.0000000 0.0292597 
+Lg1_MG230235.1_Leopardus_geoffroyi_16S_ribosomal_RNA_gene__partial_sequence__mitochondrial                      0.6686250 0.1197392 0.0510527 0.0510527 0.0585099 0.0738400 0.0662733 0.0436345 0.0292597 0.0000000 
