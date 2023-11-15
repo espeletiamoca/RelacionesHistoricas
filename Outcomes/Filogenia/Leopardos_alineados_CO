@@ -1,0 +1,106 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Lt2_MG230229.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            ------------------------------------------------------------	0
+Fcat_LC500148.1_Felis_catus_mitochondrial_gene_for_16S_ribosomal_RNA,_partial_sequence,_note:_sample_name:_SD54      AGCATTTCTAGTATTAGAGGCACTGCCTGCCCGGTGACGCTAGTTAAACGGCCGCGGTAT	60
+Nariño_MG230196.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                         ------------------------------------------------------------	0
+Lw1_MG230243.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              ------------------------------------------------------------	0
+Lw2_MG230244.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              ------------------------------------------------------------	0
+Lw3_MG230245.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              ------------------------------------------------------------	0
+Lp1_MG230239.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            ------------------------------------------------------------	0
+Lp2_MG230241.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            ------------------------------------------------------------	0
+Lt1_MG230224.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            ------------------------------------------------------------	0
+Lt3_MG230232.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            ------------------------------------------------------------	0
+Lg1_MG230235.1_Leopardus_geoffroyi_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                           ------------------------------------------------------------	0
+                                                                                                                                                                                 
+
+Lt2_MG230229.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            --------------------------------------------------TATGAATCCG	10
+Fcat_LC500148.1_Felis_catus_mitochondrial_gene_for_16S_ribosomal_RNA,_partial_sequence,_note:_sample_name:_SD54      CCTGACCGTGCAAAGGTAGCATAATCATTTGTTCCCTAAATAGGGACTTGTATGAACGGC	120
+Nariño_MG230196.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                         --------------------------------------------------TATGAATGGC	10
+Lw1_MG230243.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              --------------------------------------------------TATGAATGGC	10
+Lw2_MG230244.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              --------------------------------------------------TATGAATGGC	10
+Lw3_MG230245.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              --------------------------------------------------TATGAATGGC	10
+Lp1_MG230239.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            --------------------------------------------------TATGAATGGC	10
+Lp2_MG230241.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            --------------------------------------------------TATGAATGGC	10
+Lt1_MG230224.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            --------------------------------------------------TATGAATGGC	10
+Lt3_MG230232.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            --------------------------------------------------TATGAATGGC	10
+Lg1_MG230235.1_Leopardus_geoffroyi_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                           --------------------------------------------------TATGAATGGC	10
+                                                                                                                                                                       ******    
+
+Lt2_MG230229.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GGGCAGCATAATCTGGACAGTCGATGTTGGATCAGGACAGGGTGAGGTGCCCGTGAAGAG	70
+Fcat_LC500148.1_Felis_catus_mitochondrial_gene_for_16S_ribosomal_RNA,_partial_sequence,_note:_sample_name:_SD54      CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGAAATTGACCTTCCCGTGAAGAG	180
+Nariño_MG230196.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                         CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGAAATTGACCTTCCCGTGAAGAG	70
+Lw1_MG230243.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGAAATTGACCTTCCCGTGAAGAG	70
+Lw2_MG230244.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGAAATTGACCTTCCCGTGAAGAG	70
+Lw3_MG230245.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGAAATTGACCTTCCCGTGAAGAG	70
+Lp1_MG230239.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGAAATTGACCTTCCCGTGAAGAG	70
+Lp2_MG230241.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGAAATTGACCTTCCCGTGAAGAG	70
+Lt1_MG230224.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGAAATTGACCTTCCCGTGAAGAG	70
+Lt3_MG230232.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGTAATTGACCTTCCCGTGAAGTG	70
+Lg1_MG230235.1_Leopardus_geoffroyi_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                           CACACGAGGGCTTTACTGTCTCTTACTTCCAATCCGTGAAATTGACCTTCCCGTGAAGAG	70
+                                                                                                                          *     * *      **    **  *    *      ***  * ********* *
+
+Lt2_MG230229.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GCGGGAATATGACAATAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	130
+Fcat_LC500148.1_Felis_catus_mitochondrial_gene_for_16S_ribosomal_RNA,_partial_sequence,_note:_sample_name:_SD54      GCGGGAATATAATAATAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	240
+Nariño_MG230196.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                         GCGGGAATATAACAATAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	130
+Lw1_MG230243.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              GCGGGAATATAACAATAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	130
+Lw2_MG230244.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              GCGGGAATATAACAATAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	130
+Lw3_MG230245.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              GCGGGAATATAACAATAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	130
+Lp1_MG230239.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GCGGGAATACAACAATAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	130
+Lp2_MG230241.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GCGGGAATATAACAATAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	130
+Lt1_MG230224.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GCGGGAATATAATAATAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	130
+Lt3_MG230232.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GCGGGAATATAACAACAAGACGAGAAGACCCTTTGGAGCTTTAATTAACCGACCCAAAGA	130
+Lg1_MG230235.1_Leopardus_geoffroyi_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                           GCGGGAATATAACAACAAGACGAGAAGACCCTATGGAGCTTTAATTAACCGACCCAAAGA	130
+                                                                                                                     *********  * ** **************** ***************************
+
+Lt2_MG230229.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GATCTTGATAATCAACCGACAGGGATAACATACCTCTACATGGGCCGACAATTTAGGTTG	190
+Fcat_LC500148.1_Felis_catus_mitochondrial_gene_for_16S_ribosomal_RNA,_partial_sequence,_note:_sample_name:_SD54      GACCATATGAACCAACCGACAGGAACAACAAACCTCTATATGGGCCGGCAATTTAGGTTG	300
+Nariño_MG230196.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                         GACCCCACTAATTAACCGACAGGAACAACAAATCTCTACATGGGCCGACAATTTAGGTTG	190
+Lw1_MG230243.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              GACCCCACTAATTAACCGACAGGAACAACAAATCTCTACATGGGCCGACAATTTAGGTTG	190
+Lw2_MG230244.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              GACCCCACTAATTAACCGACAGGAACAACAAATCTCTACATGGGCCGACAATTTAGGTTG	190
+Lw3_MG230245.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              GACCCCACTAATTAACCGACAGGAACAACAAATCTCTACATGGGCCGACAATTTAGGTTG	190
+Lp1_MG230239.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GACCCTACTAATTAACCGACAGGAACAACAAATCTCTACATGGGCCGACAATTTAGGTTG	190
+Lp2_MG230241.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GACCCTACTAATTAACCGACAGGAACAACAAATCTCTACATGGGCCGACAATTTAGGTTG	190
+Lt1_MG230224.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GACCCCGCCAACCAACCGACAGGAACAACAAATCTCTACATGGGCCGACAATTTAGGTTG	190
+Lt3_MG230232.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GACCCCACTAACCAACCGACTGGAACAACAAATCTCTACATGGGCCGACAATTTAGGTTG	190
+Lg1_MG230235.1_Leopardus_geoffroyi_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                           GACCCCACTAACCAACCGACAGGAACAACAAATCTCTACATGGGCCGACAATTTAGGTTG	190
+                                                                                                                     ** *     **  ******* ** * **** * ***** ******** ************
+
+Lt2_MG230229.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GGGTGACCTCGGAGAATAAAACAACCTCCGAGTGATTTAAATCTAGACTAACTAGTCGAA	250
+Fcat_LC500148.1_Felis_catus_mitochondrial_gene_for_16S_ribosomal_RNA,_partial_sequence,_note:_sample_name:_SD54      GGGTGACCTCGGAGAATAAAACAACCTCCGAGTGATTTAAATCTAGACTAACCAGTCGAA	360
+Nariño_MG230196.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                         GGGTGACCTCGGAGAATAAAACAACCTCCGAGTGATTTAAATCTAGACTAACCAGTCGAA	250
+Lw1_MG230243.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              GGGTGACCTCGGAGAATAAAACAACCTCCGAGTGATTTAAATCTAGACTAACCAGTCGAA	250
+Lw2_MG230244.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              GGGTGACCTCGGAGAATAAAACAACCTCCGAGTGATTTAAATCTAGACTAACCAGTCGAA	250
+Lw3_MG230245.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              GGGTGACCTCGGAGAATAAAACAACCTCCGAGTGATTTAAATCTAGACTAACCAGTCGAA	250
+Lp1_MG230239.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GGGTGACCTCGGAGAATAAAGCAACCTCCGAGTGATTTAAATCTAGACTAACCAGTCGAA	250
+Lp2_MG230241.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GGGTGACCTCGGAGAATAAAGCAACCTCCGAGTGATTTAAATCTAGACTAACCAGTCGAA	250
+Lt1_MG230224.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GGGTGACCTCGGAGAATAAAACAACCTCCGAGTGATTTAAATCTAGACTAACCAGTCAAA	250
+Lt3_MG230232.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            GGGTGACCTCGGAGAATAAAATAACCTCCGAATGATTTAAATCTAGACTAACCAGTCAAA	250
+Lg1_MG230235.1_Leopardus_geoffroyi_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                           GGGTGACCTCGGAGAATAAAATAACCTCCGAATGATTTAAATCTAGACTAACCAGTCAAA	250
+                                                                                                                     ********************  ********* ******************** **** **
+
+Lt2_MG230229.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AGTACTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+Fcat_LC500148.1_Felis_catus_mitochondrial_gene_for_16S_ribosomal_RNA,_partial_sequence,_note:_sample_name:_SD54      AGTACTACATCACTTATTGATCCAAAAACCTTGATCAACGGAACAAGTTACCCTAGGGAT	420
+Nariño_MG230196.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                         AGTATTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+Lw1_MG230243.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              AGTATTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+Lw2_MG230244.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              AGTATTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+Lw3_MG230245.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              AGTATTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+Lp1_MG230239.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AGTATTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+Lp2_MG230241.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AGTATTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+Lt1_MG230224.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AGTATTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+Lt3_MG230232.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AGTATTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+Lg1_MG230235.1_Leopardus_geoffroyi_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                           AGTATTACATCACTTATTGATCCAA--AACTTGATCAACGGAACAAGTTACCCTAGGGAT	308
+                                                                                                                     **** ********************  * *******************************
+
+Lt2_MG230229.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AACAGCGCAATCCTATTTTAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+Fcat_LC500148.1_Felis_catus_mitochondrial_gene_for_16S_ribosomal_RNA,_partial_sequence,_note:_sample_name:_SD54      AACAGCGCAATCCTATTTCAGAGTCCATATCGACAATAGGGT--------------	462
+Nariño_MG230196.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                         AACAGCGCAATCCTATTTTAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+Lw1_MG230243.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              AACAGCGCAATCCTATTTTAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+Lw2_MG230244.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              AACAGCGCAATCCTATTTTAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+Lw3_MG230245.1_Leopardus_wiedii_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                              AACAGCGCAATCCTATTCTAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+Lp1_MG230239.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AACAGCGCAATCCTATTTTAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+Lp2_MG230241.1_Leopardus_pardalis_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AACAGCGCAATCCTATTTTAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+Lt1_MG230224.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AACAGCGCAATCCTATTTCAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+Lt3_MG230232.1_Leopardus_tigrinus_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                            AACAGCGCAATCCTATTTCAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+Lg1_MG230235.1_Leopardus_geoffroyi_16S_ribosomal_RNA_gene,_partial_sequence;_mitochondrial                           AACAGCGCAATCCTATTTCAGAGTCCATATCGACAATAGGGTTTACGACCTCGATG	364
+                                                                                                                     *****************  ***********************              
